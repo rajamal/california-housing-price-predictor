@@ -1,15 +1,3 @@
-<style>
-    .datatable {
-        width: 70%;
-    }
-    .datatable th {
-        height: 0px;
-        border-width: 0px;
-        border: none;
-        background: rgb(240, 247, 250); color: black;
-    }
-    .datatable tr td:nth-child(1) { background: rgb(240, 247, 250); color: black; }
-</style>
 ![suburb](./images/suburb.jpg)
 
 # California Housing Price Predictor
@@ -44,7 +32,7 @@ A household is a group of people residing within a home. Since the average numbe
 ## Future Explorations
 1. Evaluating whether to normalize Longitude and Latitude attributes of the dataset. Is there better way to represent the latitude and longitudes
 2. Evaluating if we can add external data to improve the model and its accuracy
-3. Evaluation other feature engineering techniques.
+3. Evaluation of other feature engineering techniques to get better representative features.
 
 
 ## FAQs
